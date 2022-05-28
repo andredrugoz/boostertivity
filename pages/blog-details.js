@@ -21,7 +21,7 @@ const BlogGrid = () => {
             <div className="blog-details-area ptb-100">
                 <div className="container">
                     <div className="row">
-                        <div className="col-lg-8 col-md-12">
+                        <div className="col-12">
                             <div className="blog-details-desc">
                                 <div className="article-image">
                                     <Link href="/blog-grid">
@@ -46,57 +46,48 @@ const BlogGrid = () => {
                                         </ul>
                                     </div>
 
-                                    <h4>Branding involves developing strategy to create a pin point of differentiation the marketing</h4>
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur <strong>adipisicing</strong> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <a href="/blog-details">commodo</a> consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-                                    <ol>
-                                        <li>Nunc, mauris ut in vestibulum. Consectetur phasellus ultrices fusce nibh justo, venenatis, amet. Lectus quam in </li>
-                                        <li>Most of the designer are very creative to do something , mauris ut in vestibulum. Consectetur phasellus ultrices fusce nibh justo, venenatis, amet. Lectus quam in lobortis </li>
-                                        <li>There are two thing is very important in Consectetur phasellus ultrices fusce nibh justo, venenatis, amet. Lectus quam.</li>
-                                        <li>Web design and development very creative to do something , mauris ut in vestibulum. Consectetur phasellus ultrices fusce nibh  venenatis, amet to all design and development.</li>
-                                    </ol>
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
-
-                                    <ul className="wp-block-gallery columns-3">
-                                        <li className="blocks-gallery-item">
-                                            <figure>
-                                                <img src="/images/blog/blog5.jpg" alt="image" />
-                                            </figure>
-                                        </li>
-                                        <li className="blocks-gallery-item">
-                                            <figure>
-                                                <img src="/images/blog/blog6.jpg" alt="image" />
-                                            </figure>
-                                        </li>
-                                        <li className="blocks-gallery-item">
-                                            <figure>
-                                                <img src="/images/blog/blog7.jpg" alt="image" />
-                                            </figure>
-                                        </li>
-                                    </ul>
-
-                                    <h4>Four major elements that we offer:</h4>
-                                    <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
-
-                                    <ul>
-                                        <li>Scientific skills for getting a better result</li>
-                                        <li>Communication skills to getting in touch</li>
-                                        <li>A career overview opportunity available</li>
-                                        <li>A good work environment for work</li>
-                                    </ul>
-
-                                    <h4>Setting the mood with incense</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in  sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-
-                                    <blockquote className="wp-block-quote">
-                                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                        <cite>Tom Cruise</cite>
-                                    </blockquote>
-
-                                    <h4>The rise of marketing and why you need it</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                    <p>Lorem ipsum dolor sit amet, consectetur <strong>adipisicing</strong> elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <a href="/blog-details">commodo</a> consequat. Duis aute irure dolor in reprehenderit in sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-                                </div>
+                                    <h4>L’importanza di un team coeso nella gestione di un’attività</h4>
+                                        <p>
+                                        <span>E’ indubbio che un </span><span>team coeso</span><span>&nbsp;rappresenta una </span><span>caratteristica fondamentale di un’attività di successo</span>
+                                        <span>; questa è senza dubbio la ricetta di una squadra che funziona. Ecco perché, al fine di avviare un’attività che possa rivelarsi vincente, </span>
+                                        <span>obiettivo primario</span><span>&nbsp;è </span><span>alimentare rapporti funzionali fra i membri del proprio team</span>
+                                        <span>. Si tratta, infatti, di uno degli elementi chiave di ogni piano di comunicazione interna che si rispetti.</span>
+                                        </p>
+                                        <p>
+                                        <span>Il primo passo fondamentale è quello di </span><span>creare advocacy</span><span>&nbsp;nei propri dipendenti. Nel concreto si tratta di </span>
+                                        <span>rendere il proprio team portavoce dei valori aziendali</span>
+                                        <span>, trasmettendo gli ideali positivi dell’attività, facendo in modo che il luogo di lavoro venga identificato come un luogo caratterizzato da clima positivo e valori condivisibili.</span>
+                                        </p>
+                                        <p>
+                                        <span>
+                                            E’ esemplare, in tal senso, il piano di comunicazione interna “Avanti e Veloci” ideato da Marchionne; l’uomo si stupì, infatti, di quanto poco orgogliosi fossero i suoi dipendenti di lavorare
+                                            per la Fiat. &nbsp;Addirittura si racconta che preferissero comprare altre automobili, tale era la loro sottostima per il marchio. Marchionne decise allora di rivoluzionare completamente l’ambiente di lavoro con una
+                                            serie di iniziative di comunicazione interna che ebbero il risultato di favorire il coinvolgimento del suo team nei processi di creazione aziendale. Una delle iniziative di maggior successo fu “Venditori per un
+                                            giorno”, in cui i dipendenti della fabbrica vennero invitati a provare le auto che producevano.
+                                        </span>
+                                        </p>
+                                        <p>
+                                        <span>Iniziative di comunicazione interna</span><span>&nbsp;di questo tipo </span><span>sono esempi concreti di quello che significa creare un gruppo coeso e partecipativo</span>
+                                        <span>&nbsp;che è realmente interessato nel buon funzionamento del lavoro che svolge.</span>
+                                        </p>
+                                        {/* <p className="c2 c5"><span /></p> */}
+                                        <p>
+                                        <span>L’uomo è poi un animale sociale; questo significa che </span><span>sentirsi parte del gruppo di lavoro è fondamentale</span>
+                                        <span>
+                                            &nbsp;poiché le dinamiche di disgregazione sociale proprie di ogni ambiente possono impattare negativamente sul lavoro della propria attività. Come fare in modo che le persone si sentano un gruppo coeso?
+                                            Valorizzando i singoli membri, tenendo presente la percezione degli individui in merito alla qualità dell’ambiente di lavoro. Nel concreto, questo significa
+                                        </span>
+                                        <span>raccogliere feedback</span><span>, </span><span>attuare una leadership</span><span>&nbsp;che sia il più possibile </span><span>partecipativa </span>
+                                        <span>e </span><span>stabilire obiettivi </span><span>in modo che siano il più possibile </span><span>calibrati </span>
+                                        <span>all’interno del proprio team.</span>
+                                        </p>
+                                        {/* <p className="c2 c5"><span /></p> */}
+                                        <p>
+                                        <span>Un ulteriore suggerimento, che viene dall’esempio di grandi aziende come Google, è </span><span>non sottovalutare l’importanza dell’aspetto ludico nel lavoro</span>
+                                        <span>; è dimostrato, infatti, che svolgere insieme attività ricreative (tornei sportivi, visite guidate, gite) incrementa le chance di fraternizzare ed alleggerire le tensioni lavorative.</span>
+                                        </p>
+                                        <p><span>Provare per credere!</span></p>
+                                    </div>
 
                                 <div className="article-footer">
                                     <div className="post-author-meta">
@@ -138,9 +129,9 @@ const BlogGrid = () => {
                                 </div>
                                 
                                 {/* Related Blog Post */}
-                                <RelatedPost />
+                                {/* <RelatedPost /> */}
 
-                                <div className="comments-area">
+                                {/* <div className="comments-area">
                                     <h3 className="comments-title">2 Comments:</h3>
 
                                     <ol className="comment-list">
@@ -293,15 +284,15 @@ const BlogGrid = () => {
                                             </p>
                                         </form>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-12">
+                        {/* <div className="col-lg-4 col-md-12">
                             <div className="right-sidebar">
                                 <BlogSidebar />
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

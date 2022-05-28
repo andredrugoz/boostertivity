@@ -40,7 +40,7 @@ const BlogPost = () => {
                                     </ul>
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>Branding involves developing strategy to create a point of differentiation</a>
+                                            <a>L’importanza di un team coeso nella gestione di un’attività</a>
                                         </Link>
                                     </h3>
                                 </div>

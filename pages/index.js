@@ -41,7 +41,7 @@ const IndexPage3 = () => {
 
             {/* <ClientFeedbackStyle3 /> */}
 
-            {/* <BlogPost /> */}
+            <BlogPost />
              
             <FooterStyleOne />
         </>
