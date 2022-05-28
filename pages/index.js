@@ -31,17 +31,17 @@ const IndexPage3 = () => {
 
             <KeyFeatures />
 
-            <AppScreenshotsStyle3 />
+            {/* <AppScreenshotsStyle3 /> */}
 
             <SoftwareIntegrations />
 
-            <AppDownloadStyle2 />
+            {/* <AppDownloadStyle2 /> */}
 
             <PricingPlanStyle3 />
 
-            <ClientFeedbackStyle3 />
+            {/* <ClientFeedbackStyle3 /> */}
 
-            <BlogPost />
+            {/* <BlogPost /> */}
              
             <FooterStyleOne />
         </>

@@ -9,7 +9,7 @@ const BestAppEver = () => {
                     <div className="row m-0">
                         <div className="col-xl-6 col-lg-12 col-md-12 p-0">
                             <div className="overview-content">
-                                <h2>Most Probably You Are Getting Best App Ever</h2>
+                                <h2>Scopri tutti i servizi che possiamo offrirti</h2>
                                 <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
 
                                 <ul className="features-list">
@@ -17,32 +17,32 @@ const BestAppEver = () => {
                                         <div className="icon">
                                             <i className="ri-download-cloud-2-line"></i>
                                         </div>
-                                        <h3>Free Download App</h3>
-                                        <p>Just log in with your mail account from play store and using whatever you want for your business purpose.</p>
+                                        <h3>Team</h3>
+                                        <p>Bosstertivity vuole rendere più efficiente il tuo team di lavoro.</p>
                                     </li>
                                     <li>
                                         <div className="icon">
                                             <i className="ri-award-line"></i>
                                         </div>
-                                        <h3>Trusted and Reliable</h3>
-                                        <p>Most provabily best you can trust on it, just log in with your mail account from play store and using whatever you want for your business.</p>
+                                        <h3>Collaboraizone elastica</h3>
+                                        <p>Cerchiamo insieme l'approccio corretto ricavando del tempo nuovo da dedicare ad altri progetti.</p>
                                     </li>
                                     <li>
                                         <div className="icon">
                                             <i className="ri-cloud-line"></i>
                                         </div>
-                                        <h3>Cloud Storage</h3>
-                                        <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy.</p>
+                                        <h3>Time plan</h3>
+                                        <p>Valutiamo la tua gioranata "tipo" e portiamo freschezza alla gestione organizzativa;</p>
                                     </li>
                                 </ul>
 
                                 <div className="btn-box">
                                     <Link href="/contact">
-                                        <a className="default-btn">Start Free Trial</a>
+                                        <a className="default-btn">Richiedi consulenza</a>
                                     </Link>
-                                    <Link href="/features">
-                                        <a className="link-btn">See All Features</a>
-                                    </Link>
+                                    {/* <Link href="/features">
+                                        <a className="link-btn">Scopri di più</a>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>

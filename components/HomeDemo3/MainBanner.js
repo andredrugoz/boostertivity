@@ -10,9 +10,9 @@ const MainBanner = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-5 col-md-12">
                             <div className="banner-wrapper-content">
-                                <span className="sub-title">Secure Application</span>
-                                <h1>Manage All of Your Stuff Using a Texap</h1>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id tincidunt eifend odio viverra diam aliquet donec again.</p>
+                                <span className="sub-title">Activity Booster</span>
+                                <h1>Il nostro servizio di consulenza</h1>
+                                <p>Per un' analisi più approfondita della tua azienda per identificare per identificare le opportunità di crescita e per prendere le giuste decisioni strategiche.</p>
                                 <Link href="/contact">
                                     <a className="default-btn">Start Free Trial</a>
                                 </Link>

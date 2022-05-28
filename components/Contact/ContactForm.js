@@ -6,8 +6,8 @@ const ContactForm = () => {
             <div className="contact-area ptb-100">
                 <div className="container">
                     <div className="section-title">
-                        <h2>Get in Touch</h2>
-                        <p>The IT industry offers a sea of options, from platforms, programming languages methodologies, technologies, tools, and more.</p>
+                        <h2>Rimani in contatto</h2>
+                        <p>Per qualsiasi dubbio o informazione non esitare a contattarci, provvedremo a risponderti al più presto.</p>
                     </div>
 
                     <div className="contact-form">
@@ -40,7 +40,7 @@ const ContactForm = () => {
                                 </div>
                                 <div className="col-lg-12 col-md-12 col-sm-12">
                                     <button type="submit" className="default-btn">
-                                        <i className='bx bx-paper-plane'></i> Send Message
+                                        <i className='bx bx-paper-plane'></i> Invia messaggio
                                     </button>
                                 </div>
                             </div>

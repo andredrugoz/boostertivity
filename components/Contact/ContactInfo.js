@@ -6,7 +6,7 @@ const ContactInfo = () => {
             <div className="contact-info-area pb-100">
                 <div className="container">
                     <div className="contact-info-inner">
-                        <h2>Have any question in mind please call or mail us</h2>
+                        <h2>Se preferisci puoi chiamarci o mandarci una email</h2>
 
                         <div className="row justify-content-center">
                             <div className="col-lg-4 col-md-6 col-sm-6">

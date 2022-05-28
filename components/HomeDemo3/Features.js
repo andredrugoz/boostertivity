@@ -19,7 +19,7 @@ const Features = () => {
                                 <div className="icon bg2">
                                     <i className="ri-award-line"></i>
                                 </div>
-                                <h3>Award Winning App</h3>
+                                <h3>Professionisti</h3>
                             </div>
                         </li>
                         <li>
@@ -27,7 +27,7 @@ const Features = () => {
                                 <div className="icon bg3">
                                     <i className="ri-fingerprint-line"></i>
                                 </div>
-                                <h3>Privacy Protected</h3>
+                                <h3>Rispettiamo la privacy</h3>
                             </div>
                         </li>
                         <li>
@@ -35,7 +35,7 @@ const Features = () => {
                                 <div className="icon">
                                     <i className="ri-vip-diamond-fill"></i>
                                 </div>
-                                <h3>Lifetime Update</h3>
+                                <h3>Trattamento riservato</h3>
                             </div>
                         </li>
                         <li>

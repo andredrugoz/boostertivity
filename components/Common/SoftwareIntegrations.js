@@ -10,13 +10,13 @@ const SoftwareIntegrations = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="software-integrations-content">
-                                <span className="sub-title">SOFTWARE INTEGRATIONS</span>
-                                <h2>Easy & Perfect Solution With Latest Software Integrations</h2>
-                                <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. never missyour chance its just began. backup just log in with your mail account from.</p>
-                                <p>Most provabily best  for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy.</p>
+                                <span className="sub-title">SOLUZIONI INNOVATIVE</span>
+                                <h2>Soluzioni semplici e su misura per la tua attività</h2>
+                                <p>Usiamo le strategie migliori e innovative nel mondo online, dopo una attenta analisi della tua azienda svilupperemo una soluzione unica.</p>
+                                <p>É importante per noi che i nostri clienti non abbiano difficoltà nell'adottare la nuova strategia.</p>
 
                                 <Link href="/contact">
-                                    <a className="default-btn">Get Started</a>
+                                    <a className="default-btn">Richiedi consulenza</a>
                                 </Link>
                             </div>
                         </div>

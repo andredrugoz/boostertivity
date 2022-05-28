@@ -7,49 +7,47 @@ const PricingPlanStyle3 = () => {
             <div className="pricing-area bg-black-color pt-100 pb-75">
                 <div className="container">
                     <div className="section-title color-white">
-                        <span className="sub-title">PRICING TABLE</span>
-                        <h2>No Hidden Charge Applied, Choose Your Plan</h2>
+                        <span className="sub-title">COSTI E SERVIZI</span>
+                        <h2>Nessuna commissione nascosta, scegli piano adatto a te.</h2>
                     </div>
 
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-pricing-box">
                                 <div className="title">
-                                    <h3>Basic</h3>
-                                    <p>Powerful & awesome elements</p>
+                                    <h3>Base Consultacy</h3>
+                                    <p>Dove tutto inizia</p>
                                 </div>
                                 <div className="price">
-                                    $39 <span>/Month</span>
+                                    GRATIS <span>(solo una volta)</span>
                                 </div>
 
                                 <Link href="/sign-in">
-                                    <a className="default-btn">Purchase Plan</a>
+                                    <a className="default-btn">Servizi inclusi</a>
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 10 Website</li>
-                                    <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
-                                    <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-close-line"></i> SEO Optimized</li>
-                                    <li><i className="ri-close-line"></i> Live Support</li>
+                                    <li><i className="ri-check-line"></i> Videocall 30m</li>
+                                    <li><i className="ri-check-line"></i> Presentazione</li>
+                                    <li><i className="ri-check-line"></i> Approfondimento criticità</li>
+                                    <li><i className="ri-check-line"></i> Analisi dettagliata</li>
                                 </ul>
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
+                        {/* <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-pricing-box active">
                                 <div className="title">
-                                    <h3>Team</h3>
-                                    <p>Powerful & awesome elements</p>
+                                    <h3>Interactive</h3>
+                                    <p>Il migliore per iniziare seriamente</p>
                                 </div>
-                                <span className="popular">Most Popular</span>
+                                <span className="popular">La più scelta</span>
                                 <div className="price">
-                                    $49 <span>/Month</span>
+                                    € 195
                                 </div>
                                 
                                 <Link href="/sign-in">
-                                    <a className="default-btn">Purchase Plan</a>
+                                    <a className="default-btn">Servizi inclusi</a>
                                 </Link>
 
                                 <ul className="features-list">
@@ -62,29 +60,30 @@ const PricingPlanStyle3 = () => {
                                     <li><i className="ri-close-line"></i> Live Support</li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-pricing-box">
                                 <div className="title">
-                                    <h3>Business</h3>
+                                    <h3>Top</h3>
                                     <p>Powerful & awesome elements</p>
                                 </div>
                                 <div className="price">
-                                    $59 <span>/Month</span>
+                                    Su richiesta
                                 </div>
 
                                 <Link href="/sign-in">
-                                    <a className="default-btn">Purchase Plan</a>
+                                    <a className="default-btn">Servizi inclusi</a>
                                 </Link>
                                 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 500 Website</li>
-                                    <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 50 GB Dedicated Hosting free</li>
-                                    <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-check-line"></i> SEO Optimized</li>
-                                    <li><i className="ri-check-line"></i> Live Support</li>
+                                <ul className="features-list">
+                                    <li><i className="ri-check-line"></i> Videocall su appuntamento</li>
+                                    <li><i className="ri-check-line"></i> Sviluppo della tua strategia digitale</li>
+                                    <li><i className="ri-check-line"></i> Risoluzione delle criticità</li>
+                                    <li><i className="ri-check-line"></i> Inserimento di strumenti per migliorare il lavoro</li>
+
+                                </ul>
                                 </ul>
                             </div>
                         </div>

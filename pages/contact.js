@@ -11,10 +11,10 @@ const Contact = () => {
             <NavbarStyleOne /> 
 
             <PageBannerStyle1 
-                pageTitle="Contact Us"
+                pageTitle="Richiedi Consulenza"
                 homePageUrl="/"
                 homePageText="Home"
-                activePageText="Contact Us"
+                activePageText="Richiedi Consulenza"
             />
 
             <ContactForm />
