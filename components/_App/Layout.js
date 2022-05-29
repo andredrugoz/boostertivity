@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
     // Preloader
     const [loader, setLoader] = React.useState(true);
     React.useEffect(() => {
-        setTimeout(() => setLoader(false), 250);
+        setTimeout(() => setLoader(false), 450);
     }, [])
 
     return(
@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
 
             {children}
 
-            {/* {loader ? <Preloader /> : null} */}
+            {loader ? <Preloader /> : null}
  
             <GoTop scrollStepInPx="100" delayInMs="10.50" />
         </>
