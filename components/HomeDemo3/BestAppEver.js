@@ -10,7 +10,7 @@ const BestAppEver = () => {
                         <div className="col-xl-6 col-lg-12 col-md-12 p-0">
                             <div className="overview-content">
                                 <h2>Scopri tutti i servizi che possiamo offrirti</h2>
-                                <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
+                                <p>Per noi la priorità è il cliente e le sue esigenze, studiamo ogni caso per ottenere il risultato migliore accompagnando il team nella crescità e al successo.</p>
 
                                 <ul className="features-list">
                                     <li>
