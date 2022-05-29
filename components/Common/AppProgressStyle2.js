@@ -48,7 +48,7 @@ const AppProgressStyle2 = () => {
                                 <p>Most provabily best  for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy  backup just log in with your mail account from.</p>
                                 
                                 <Link href="/sign-in">
-                                    <a className="default-btn">Start Free Trial</a>
+                                    <a className="default-btn">Contattaci</a>
                                 </Link>
                             </div>
                         </div>

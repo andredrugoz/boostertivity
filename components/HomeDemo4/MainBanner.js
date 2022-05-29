@@ -11,7 +11,7 @@ const MainBanner = () => {
                         <h1>The Revolutionary App That Makes Your Life Easier Than Others</h1>
 
                         <Link href="/sign-in">
-                            <a className="default-btn">Start Free Trial</a>
+                            <a className="default-btn">Contattaci</a>
                         </Link>
 
                         <img src="/images/banner/banner-app3.png" alt="image" />

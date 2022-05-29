@@ -16,7 +16,7 @@ const MainBanner = () => {
                                     <h1>The Revolutionary App That Makes Your Life Easier Than Others Apps</h1>
 
                                     <Link href="/app-download">
-                                        <a className="default-btn">Start Free Trial</a>
+                                        <a className="default-btn">Contattaci</a>
                                     </Link>
                                 </div>
                                 

@@ -70,7 +70,7 @@ const KeyFeatures = () => {
                         <div className="col-xl-12 col-lg-12 col-sm-12 col-md-12">
                             <div className="text-center">
                                 <Link href="/sign-in">
-                                    <a className="default-btn">Start Free Trial</a>
+                                    <a className="default-btn">Contattaci</a>
                                 </Link>
                             </div>
                         </div>

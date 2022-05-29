@@ -73,8 +73,8 @@ const BlogPost = () => {
                                         </li>
                                     </ul>
                                     <h3>
-                                        <Link href="/blog-details">
-                                            <a>Design is a plan or specification for the construction of an object</a>
+                                        <Link href="/blog-details2">
+                                            <a>Distinguere pregi e difetti della propria attività</a>
                                         </Link>
                                     </h3>
                                 </div>
@@ -105,8 +105,8 @@ const BlogPost = () => {
                                         </li>
                                     </ul>
                                     <h3>
-                                        <Link href="/blog-details">
-                                            <a>Branding involves developing strategy to create a point</a>
+                                        <Link href="/blog-details3">
+                                            <a>Perché un’attività fluida è un’attività vincente?</a>
                                         </Link>
                                     </h3>
                                 </div>

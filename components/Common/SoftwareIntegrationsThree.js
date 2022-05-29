@@ -17,7 +17,7 @@ const SoftwareIntegrationsThree = () => {
                                     <p>Most provabily best  for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy.</p>
 
                                     <Link href="/contact">
-                                        <a className="default-btn">Get Started</a>
+                                        <a className="default-btn">Contattaci</a>
                                     </Link>
                                 </div>
                             </div>

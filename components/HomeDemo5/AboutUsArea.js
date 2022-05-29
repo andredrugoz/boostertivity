@@ -26,7 +26,7 @@ const AboutUsArea = () => {
 
                                 <div className="btn-box">
                                     <Link href="/sign-up">
-                                        <a className="default-btn">Start Free Trial</a>
+                                        <a className="default-btn">Contattaci</a>
                                     </Link>
                                     <Link href="/features">
                                         <a className="link-btn">See All Features</a>

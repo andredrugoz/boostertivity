@@ -25,7 +25,7 @@ const IntroVideo = () => {
                                 <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began. Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
 
                                 <Link href="/contact">
-                                    <a className="default-btn">Get Started</a>
+                                    <a className="default-btn">Contattaci</a>
                                 </Link>
                             </div>
                         </div>

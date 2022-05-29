@@ -74,7 +74,7 @@ const FooterStyleOne = () => {
                             </li>
                         </ul>
 
-                        <p className="copyright">Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
+                        <p className="copyright">Made with ❤️ by <a href="https://CheckupDigitale.com/" target="_blank">CheckupDigitale</a></p>
                     </div>
                 </div>
             </div>

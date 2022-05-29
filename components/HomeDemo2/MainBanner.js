@@ -15,7 +15,7 @@ const MainBanner = () => {
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id tincidunt eifend odio viverra diam aliquet donec again.</p>
 
                                 <Link href="/sign-in">
-                                    <a className="default-btn">Start Free Trial</a>
+                                    <a className="default-btn">Contattaci</a>
                                 </Link>
                             </div>
                         </div>

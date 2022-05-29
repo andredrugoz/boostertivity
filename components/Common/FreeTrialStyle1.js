@@ -16,7 +16,7 @@ const FreeTrialStyle1 = () => {
                                 placeholder="Enter Your Email Address" 
                                 name="email" 
                             />
-                            <button type="submit" className="default-btn">Get Started</button>
+                            <button type="submit" className="default-btn">Contattaci</button>
                         </form>
 
                         {/* Shape Images */}

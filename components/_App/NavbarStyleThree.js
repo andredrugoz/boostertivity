@@ -318,7 +318,7 @@ const NavbarStyleThree = () => {
                             <div className="others-options">
                                 <Link href="/contact">
                                     <a className="default-btn">
-                                        Get Started
+                                        Contattaci
                                     </a>
                                 </Link>
                             </div>
