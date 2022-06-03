@@ -31,12 +31,7 @@ const BlogPost = () => {
                                             <i className="ri-time-line"></i> 
                                             April 14, 2021
                                         </li>
-                                        <li>
-                                            <i className="ri-message-2-line"></i> 
-                                            <Link href="/blog-details">
-                                                <a>(0) Comment</a>
-                                            </Link>
-                                        </li>
+                                       
                                     </ul>
                                     <h3>
                                         <Link href="/blog-details">
@@ -65,12 +60,7 @@ const BlogPost = () => {
                                             <i className="ri-time-line"></i> 
                                             April 13, 2021
                                         </li>
-                                        <li>
-                                            <i className="ri-message-2-line"></i> 
-                                            <Link href="/blog-details">
-                                                <a>(4) Comment</a>
-                                            </Link>
-                                        </li>
+                                        
                                     </ul>
                                     <h3>
                                         <Link href="/blog-details2">
@@ -99,10 +89,7 @@ const BlogPost = () => {
                                             <i className="ri-time-line"></i> 
                                             April 12, 2021
                                         </li>
-                                        <li>
-                                            <i className="ri-message-2-line"></i> 
-                                            <Link href="/blog-details"><a>(2) Comment</a></Link>
-                                        </li>
+                                       
                                     </ul>
                                     <h3>
                                         <Link href="/blog-details3">

@@ -7,15 +7,15 @@ const PricingPlanStyle3 = () => {
             <div className="pricing-area bg-black-color pt-100 pb-75">
                 <div className="container">
                     <div className="section-title color-white">
-                        <span className="sub-title">COSTI E SERVIZI</span>
-                        <h2>Nessuna commissione nascosta, scegli piano adatto a te.</h2>
+                        <h2>PACCHETTI</h2>
+                        <span className="sub-title">nessuna commissione nascosta, scegli il piano adatto a Te!</span>
                     </div>
 
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-pricing-box">
                                 <div className="title">
-                                    <h3>Base Consultacy</h3>
+                                    <h3>Base Consultancy</h3>
                                     <p>Dove tutto inizia</p>
                                 </div>
                                 <div className="price">
@@ -29,8 +29,7 @@ const PricingPlanStyle3 = () => {
                                 <ul className="features-list">
                                     <li><i className="ri-check-line"></i> Videocall 30m</li>
                                     <li><i className="ri-check-line"></i> Presentazione</li>
-                                    <li><i className="ri-check-line"></i> Approfondimento criticità</li>
-                                    <li><i className="ri-check-line"></i> Analisi dettagliata</li>
+                                    <li><i className="ri-check-line"></i> Focus sulle criticità</li>
                                 </ul>
                             </div>
                         </div>
@@ -66,7 +65,7 @@ const PricingPlanStyle3 = () => {
                             <div className="single-pricing-box">
                                 <div className="title">
                                     <h3>Top</h3>
-                                    <p>Powerful & awesome elements</p>
+                                    <p>Un piano d'azione ad hoc</p>
                                 </div>
                                 <div className="price">
                                     Su richiesta
@@ -79,7 +78,7 @@ const PricingPlanStyle3 = () => {
                                 <ul className="features-list">
                                 <ul className="features-list">
                                     <li><i className="ri-check-line"></i> Videocall su appuntamento</li>
-                                    <li><i className="ri-check-line"></i> Sviluppo della tua strategia digitale</li>
+                                    <li><i className="ri-check-line"></i> Focus e risoluzione delle criticità</li>
                                     <li><i className="ri-check-line"></i> Risoluzione delle criticità</li>
                                     <li><i className="ri-check-line"></i> Inserimento di strumenti per migliorare il lavoro</li>
 

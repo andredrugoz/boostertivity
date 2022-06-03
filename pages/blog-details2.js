@@ -69,13 +69,13 @@ const BlogGrid = () => {
                                             <img src="/images/user/user6.jpg" alt="user" />
                                             <div className="title">
                                                 <span className="name">
-                                                    By <Link href="/blog-grid"><a>EnvyTheme</a></Link>
+                                                    By <Link href="/blog-grid"><a>Boostertivity</a></Link>
                                                 </span>
                                                 <span className="date">March 17, 2021</span>
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="article-share">
+                                    {/* <div className="article-share">
                                         <ul className="social">
                                             <li><span>Share:</span></li>
                                             <li>
@@ -99,7 +99,7 @@ const BlogGrid = () => {
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> */}
                                 </div>
                                 
                                 {/* Related Blog Post */}

@@ -27,13 +27,13 @@ const IndexPage3 = () => {
 
             <Features />
 
-            <IntroVideo />
+            {/* <IntroVideo /> */}
 
             <KeyFeatures />
 
             {/* <AppScreenshotsStyle3 /> */}
 
-            <SoftwareIntegrations />
+            {/* <SoftwareIntegrations /> */}
 
             {/* <AppDownloadStyle2 /> */}
 

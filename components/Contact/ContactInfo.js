@@ -25,18 +25,17 @@ const ContactInfo = () => {
                                         <i className="ri-earth-line"></i>
                                     </div>
                                     <h3><a href="mailto:hello@texap.com">hello@texap.com</a></h3>
-                                    <h3><a href="mailto:info@texap.com">info@texap.com</a></h3>
                                 </div>
                             </div>
 
-                            <div className="col-lg-4 col-md-6 col-sm-6">
+                            {/* <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-contact-info-box">
                                     <div className="icon bg2">
                                         <i className="ri-map-pin-line"></i>
                                     </div>
                                     <h3>121 King St, Melbourne VIC 3000, Australia.</h3>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="lines">

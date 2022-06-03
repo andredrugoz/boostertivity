@@ -18,7 +18,7 @@ const FooterStyleOne = () => {
                             </a>
                         </Link>
 
-                        <ul className="social-links">
+                        {/* <ul className="social-links">
                             <li>
                                 <a href="https://www.facebook.com/" target="_blank">
                                     <i className="ri-facebook-fill"></i>
@@ -44,7 +44,7 @@ const FooterStyleOne = () => {
                                     <i className="ri-github-fill"></i>
                                 </a>
                             </li>
-                        </ul>
+                        </ul> */}
 
                         <ul className="navbar-nav">
                             <li className="nav-item">

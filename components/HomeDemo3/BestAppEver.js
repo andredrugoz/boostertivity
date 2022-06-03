@@ -10,7 +10,7 @@ const BestAppEver = () => {
                         <div className="col-xl-6 col-lg-12 col-md-12 p-0">
                             <div className="overview-content">
                                 <h2>Scopri tutti i servizi che possiamo offrirti</h2>
-                                <p>Per noi la priorità è il cliente e le sue esigenze, studiamo ogni caso per ottenere il risultato migliore accompagnando il team nella crescità e al successo.</p>
+                                <p>Per noi la priorità è il Cliente, le sue esigenze sono il nostro focus. Studiamo ogni singolo caso per ottenere i risultati migliori, accompagnando il Team step by step nella formazione, nella crescita e nella concreta realizzazione professionale. Così i Clienti saranno affiancati da uno Staff preparato e vincente.</p>
 
                                 <ul className="features-list">
                                     <li>
@@ -18,21 +18,21 @@ const BestAppEver = () => {
                                             <i className="ri-download-cloud-2-line"></i>
                                         </div>
                                         <h3>Team</h3>
-                                        <p>Bosstertivity vuole rendere più efficiente il tuo team di lavoro.</p>
+                                        <p>Bosstertivity vuole rendere più efficiente il tuo team di lavoro. Boostertivity vuole rendere più efficiente il Tuo Team, utilizzando leve efficaci e senza sprecare tempo prezioso.</p>
                                     </li>
                                     <li>
                                         <div className="icon">
                                             <i className="ri-award-line"></i>
                                         </div>
                                         <h3>Collaboraizone elastica</h3>
-                                        <p>Cerchiamo insieme l'approccio corretto ricavando del tempo nuovo da dedicare ad altri progetti.</p>
+                                        <p>Cerchiamo insieme l'approccio corretto, ricavando del tempo nuovo da dedicare ad altri progetti.</p>
                                     </li>
                                     <li>
                                         <div className="icon">
                                             <i className="ri-cloud-line"></i>
                                         </div>
                                         <h3>Time plan</h3>
-                                        <p>Valutiamo la tua gioranata "tipo" e portiamo freschezza alla gestione organizzativa;</p>
+                                        <p>Valutiamo la Tua gioranata "tipo" e portiamo freschezza alla gestione organizzativa.</p>
                                     </li>
                                 </ul>
 

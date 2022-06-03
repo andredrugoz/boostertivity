@@ -184,6 +184,9 @@ Features Area CSS
 =================================================*/
 .features-item {
     margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   
     .icon {
         width: 70px;

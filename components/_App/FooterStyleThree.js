@@ -173,7 +173,7 @@ const FooterStyleThree = () => {
                     </div>
                     
                     <div className="copyright-area">
-                        <p>Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
+                        <p>Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://Boostertivity.com/" target="_blank">Boostertivity</a></p>
                     </div>
                 </div>
             </div>

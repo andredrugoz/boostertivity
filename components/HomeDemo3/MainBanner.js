@@ -12,8 +12,8 @@ const MainBanner = () => {
                             <div className="banner-wrapper-content">
                                 <span className="sub-title">Activity Booster</span>
                                 <h1>Il nostro servizio di consulenza</h1>
-                                <p>Per un' analisi più approfondita della tua azienda per identificare per identificare le opportunità di crescita e per prendere le giuste decisioni strategiche.</p>
-                                <Link href="/contact">
+                                <p>Per un'analisi più approfondita del Tuo business, per identificare le opportunità di crescita e di miglioramento e per prendere le giuste decisioni strategiche volte a far notare la Tua azienda tra i Clienti.</p>
+                                 <Link href="/contact">
                                     <a className="default-btn">Contattaci</a>
                                 </Link>
                             </div>
