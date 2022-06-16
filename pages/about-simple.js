@@ -28,24 +28,27 @@ const AboutSimple = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="about-content">
-                                <span className="sub-title">ABOUT TEXAP</span>
-                                <h2>A Few Words About Us</h2>
-                                <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p>
+                                <span className="sub-title">ABOUT BOOSTERTIVITY</span>
+                                <h2>Qualche parola su di noi</h2>
+                                <p>Sono Eleonora, nata e cresciuta a Milano, accerchiata da una realtà in continuo movimento, ad oggi sono una professionista con esperienza pluriennale nei settori retail e food services.</p>
                                 
                                 <div className="features-text">
-                                    <h6>Our App</h6>
-                                    <p>Most provabily best you can trust on it, just log in with your mail account from play store and using whatever you want for your business.</p>
+                                    <h6>Vision</h6>
+                                    <p>L'evoluzione costante del mio percorso professionale mi ha portata ad esser prima una Store Manager ed ora una cosnulente freelance.</p>
+                                    <p>Le conoscenze sono diventate competenze, il mio desiderio è quello di trasmettere all'interno della tua attività</p>
                                 </div>
                                 <div className="features-text">
                                     <h6>Our Mission</h6>
-                                    <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy of your business purpose text.</p>
+                                    <p>Desidero affiancarti nel tuo business, aiutarti con il Team, consigliarti al meglio, affinché i Clienti siano pienamente soddisfatti e possano tornare, memori di una piacevole esperienza.</p>
+                                    <p>Come funziona? Prendo in esame la tua attività imprenditoriale e applico delle leve volte a migliorare la qualità del lavoro quotidiano e l aquantità di Clienti interessati</p>
+                                    <p>Bostertivity per un'esperienza di gestione migliore</p>
                                 </div>
 
                                 <div className="btn-box">
-                                    <Link href="/sign-up">
-                                        <a className="default-btn">Start Free Trial</a>
+                                    <Link href="/contact">
+                                        <a className="default-btn">Non esitare a contattarmi</a>
                                     </Link>
-                                    <Link href="/features">
+                                    <Link href="/">
                                         <a className="link-btn">See All Features</a>
                                     </Link>
                                 </div>
@@ -63,11 +66,11 @@ const AboutSimple = () => {
                 </div>
             </div>
 
-            <FunfactStyleOne />
+            {/* <FunfactStyleOne />
 
-            <AppProgressStyle2 />
+            <AppProgressStyle2 /> */}
 
-            <div className="stats-area ptb-100">
+            {/* <div className="stats-area ptb-100">
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">OUR STATS</span>
@@ -85,7 +88,7 @@ const AboutSimple = () => {
 
             <PartnerStyle3 />
 
-            <ClientFeedbackStyle1 />
+            <ClientFeedbackStyle1 /> */}
 
             <FooterStyleOne />
         </>
