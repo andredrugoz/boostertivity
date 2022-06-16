@@ -14,8 +14,7 @@ const ContactInfo = () => {
                                     <div className="icon bg1">
                                         <i className="ri-customer-service-2-line"></i>
                                     </div>
-                                    <h3><a href="tel:+321895-980008">(+321) 895-980 008</a></h3>
-                                    <h3><a href="tel:+321895-980008">(+321) 895-980 008</a></h3>
+                                    <h3><a href="tel:+393519696279">+39 3519696279</a></h3>
                                 </div>
                             </div>
 
@@ -24,7 +23,7 @@ const ContactInfo = () => {
                                     <div className="icon">
                                         <i className="ri-earth-line"></i>
                                     </div>
-                                    <h3><a href="mailto:hello@texap.com">hello@texap.com</a></h3>
+                                    <h3><a href="mailto:info@boostertivity.com">info@boostertivity.com</a></h3>
                                 </div>
                             </div>
 
