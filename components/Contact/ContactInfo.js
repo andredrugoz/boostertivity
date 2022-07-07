@@ -23,7 +23,7 @@ const ContactInfo = () => {
                                     <div className="icon">
                                         <i className="ri-earth-line"></i>
                                     </div>
-                                    <h3><a href="mailto:info@boostertivity.com">info@boostertivity.com</a></h3>
+                                    <h3><a href="mailto:eleonorascolaro20@gmail.com">eleonorascolaro20@gmail.com</a></h3>
                                 </div>
                             </div>
 
