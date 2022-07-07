@@ -7,11 +7,12 @@ const ContactForm = () => {
                 <div className="container">
                     <div className="section-title">
                         <h2>Rimani in contatto</h2>
-                        <p>Per qualsiasi dubbio o informazione non esitare a contattarci, provvederemo a risponderti al più presto.</p>
+                        <p>Per qualsiasi dubbio o informazione non esitare a contattarmi,  risponderò al più presto.</p>
                     </div>
 
                     <div className="contact-form">
-                        <form id="contactForm">
+                        <form id="contactForm" action="https://api.web3forms.com/submit" method="POST">
+                            <input type="hidden" name="access_key" value="0480d0f5-489a-45c9-b887-6ab22982d3b2" />
                             <div className="row">
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="form-group">

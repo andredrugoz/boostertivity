@@ -29,7 +29,7 @@ const AboutSimple = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="about-content">
                                 <span className="sub-title">ABOUT BOOSTERTIVITY</span>
-                                <h2>Qualche parola su di noi</h2>
+                                <h2>Qualche parola su di me</h2>
                                 <p>Sono Eleonora, nata e cresciuta a Milano, accerchiata da una realtà in continuo movimento, ad oggi sono una professionista con esperienza pluriennale nei settori retail e food services.</p>
                                 
                                 <div className="features-text">
