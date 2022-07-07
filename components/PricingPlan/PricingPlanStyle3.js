@@ -79,7 +79,6 @@ const PricingPlanStyle3 = () => {
                                 <ul className="features-list">
                                     <li><i className="ri-check-line"></i> Videocall su appuntamento</li>
                                     <li><i className="ri-check-line"></i> Focus e risoluzione delle criticità</li>
-                                    <li><i className="ri-check-line"></i> Risoluzione delle criticità</li>
                                     <li><i className="ri-check-line"></i> Inserimento di strumenti per migliorare il lavoro</li>
 
                                 </ul>

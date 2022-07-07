@@ -18,7 +18,7 @@ const BestAppEver = () => {
                                             <i className="ri-download-cloud-2-line"></i>
                                         </div>
                                         <h3>Team</h3>
-                                        <p>Bosstertivity vuole rendere più efficiente il tuo team di lavoro. Boostertivity vuole rendere più efficiente il Tuo Team, utilizzando leve efficaci e senza sprecare tempo prezioso.</p>
+                                        <p>Boostertivity vuole rendere più efficiente il tuo team di lavoro. Utilizzando leve efficaci e senza sprecare tempo prezioso.</p>
                                     </li>
                                     <li>
                                         <div className="icon">
