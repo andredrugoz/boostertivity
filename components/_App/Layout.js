@@ -16,8 +16,14 @@ const Layout = ({ children }) => {
             <Head>
                 {/* Required meta tags */}
                 <meta charSet="utf-8" />
+                <meta http-equiv="content-language" content="it" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
- 
+                <meta name="keywords" content="Boostertivity, Consulenza, Web, Strategy, Strategia, Boost, Activity" />
+                <meta name="author" content="Checkup Digitale" />
+                <meta property="og:title" content="Site Title" /> 
+                <meta property="og:description" content="La tua consulenza strategica" />
+                <meta property="og:url" content="http://boostertivity.it"/>
+                <meta property="og:site_name" content="Boostertivity"/>
                 <title>Boostertivity - La tua consulenza strategica</title>
             </Head>
 

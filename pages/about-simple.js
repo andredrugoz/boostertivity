@@ -30,18 +30,18 @@ const AboutSimple = () => {
                             <div className="about-content">
                                 <span className="sub-title">ABOUT BOOSTERTIVITY</span>
                                 <h2>Qualche parola su di me</h2>
-                                <p>Sono Eleonora, nata e cresciuta a Milano, accerchiata da una realtà in continuo movimento, ad oggi sono una professionista con esperienza pluriennale nei settori retail e food services.</p>
+                                <p>Sono Eleonora, nata e cresciuta a Milano, accerchiata da una realtà in continua evoluzione, ad oggi sono una professionista con esperienza pluriennale nei settori retail e food services.</p>
                                 
                                 <div className="features-text">
                                     <h6>Vision</h6>
                                     <p>L'evoluzione costante del mio percorso professionale mi ha portata ad esser prima una Store Manager ed ora una consulente freelance.</p>
-                                    <p>Le conoscenze sono diventate competenze, il mio desiderio è quello di trasmettere all'interno della tua attività</p>
+                                    <p>Le conoscenze sono diventate competenze, il mio desiderio è quello di trasmetterle all'interno della tua attività.</p>
                                 </div>
                                 <div className="features-text">
                                     <h6>Mission</h6>
                                     <p>Desidero affiancarti nel tuo business, aiutarti con il Team, consigliarti al meglio, affinché i Clienti siano pienamente soddisfatti e possano tornare, memori di una piacevole esperienza.</p>
-                                    <p>Come funziona? Prendo in esame la tua attività imprenditoriale e applico delle leve volte a migliorare la qualità del lavoro quotidiano e la quantità di Clienti interessati</p>
-                                    <p>Boostertivity per un'esperienza di gestione migliore</p>
+                                    <p>Come funziona? Prendo in esame la tua attività imprenditoriale e applico delle leve volte a migliorare la qualità del lavoro quotidiano e la quantità di Clienti interessati.</p>
+                                    <p>Boostertivity per un'esperienza di gestione migliore.</p>
                                 </div>
 
                                 <div className="btn-box">
