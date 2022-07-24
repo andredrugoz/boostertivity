@@ -29,6 +29,9 @@ const Layout = ({ children }) => {
                 <meta name="twitter:description" content="Prendo in esame la tua attività imprenditoriale e applico delle leve volte a migliorare la qualità del lavoro" />
                 <meta name="twitter:image" content="http://boostertivity.it/images/blog/blog4.jpg" />
                 <title>Boostertivity - La tua consulenza strategica</title>
+                <meta name="description" content="La tua consulenza strategica digitale, boost your activity" />
+                <meta name="audience" content="Everyone" />   
+
             </Head>
 
             {children}
