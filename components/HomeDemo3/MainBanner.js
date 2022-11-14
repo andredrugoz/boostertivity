@@ -11,10 +11,10 @@ const MainBanner = () => {
                         <div className="col-lg-5 col-md-12">
                             <div className="banner-wrapper-content">
                                 <span className="sub-title">Activity Booster</span>
-                                <h1>Il nostro servizio di consulenza</h1>
+                                <h1>Il servizio di consulenza</h1>
                                 <p>Per un'analisi più approfondita del Tuo business, per identificare le opportunità di crescita e di miglioramento e per prendere le giuste decisioni strategiche volte a far notare la Tua azienda tra i Clienti.</p>
                                  <Link href="/contact">
-                                    <a className="default-btn">Contattaci</a>
+                                    <a className="default-btn">Contatti</a>
                                 </Link>
                             </div>
                         </div>

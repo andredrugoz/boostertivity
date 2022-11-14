@@ -7,7 +7,7 @@ const KeyFeatures = () => {
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">SERVIZI PRINCIPALI</span>
-                        <h2>I 4 servizi che soddisfano<br/> maggiormente i nostri Clienti</h2>
+                        <h2>I 4 servizi che soddisfano<br/> maggiormente i miei Clienti</h2>
                     </div>
 
                     <div className="row justify-content-center">

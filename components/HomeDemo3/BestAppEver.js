@@ -9,8 +9,8 @@ const BestAppEver = () => {
                     <div className="row m-0">
                         <div className="col-xl-6 col-lg-12 col-md-12 p-0">
                             <div className="overview-content">
-                                <h2>Scopri tutti i servizi che possiamo offrirti</h2>
-                                <p>Per noi la priorità è il Cliente, le sue esigenze sono il nostro focus. Studiamo ogni singolo caso per ottenere i risultati migliori, accompagnando il Team step by step nella formazione, nella crescita e nella concreta realizzazione professionale. Così i Clienti saranno affiancati da uno Staff preparato e vincente.</p>
+                                <h2>Scopri tutti i servizi che posso offrirti</h2>
+                                <p>Per me la priorità è il Cliente, le sue esigenze sono il mio focus. Studio ogni singolo caso per ottenere i risultati migliori, accompagnando il Team step by step nella formazione, nella crescita e nella concreta realizzazione professionale. Così i Clienti saranno affiancati da uno Staff preparato e vincente.</p>
 
                                 <ul className="features-list">
                                     <li>
@@ -32,7 +32,7 @@ const BestAppEver = () => {
                                             <i className="ri-cloud-line"></i>
                                         </div>
                                         <h3>Time plan</h3>
-                                        <p>Valutiamo la Tua gioranata "tipo" e portiamo freschezza alla gestione organizzativa.</p>
+                                        <p>Valutando la Tua gioranata "tipo" e portando freschezza alla gestione organizzativa.</p>
                                     </li>
                                 </ul>
 

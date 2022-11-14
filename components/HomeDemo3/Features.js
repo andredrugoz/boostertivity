@@ -19,7 +19,7 @@ const Features = () => {
                                 <div className="icon bg2">
                                     <i className="ri-award-line"></i>
                                 </div>
-                                <h3>Professionisti</h3>
+                                <h3>Professionista</h3>
                             </div>
                         </li>
                         <li>
@@ -27,7 +27,7 @@ const Features = () => {
                                 <div className="icon bg3">
                                     <i className="ri-fingerprint-line"></i>
                                 </div>
-                                <h3>Rispettiamo la privacy</h3>
+                                <h3>Rispetto della privacy</h3>
                             </div>
                         </li>
                         <li>

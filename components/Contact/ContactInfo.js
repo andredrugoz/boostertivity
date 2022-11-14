@@ -6,17 +6,17 @@ const ContactInfo = () => {
             <div className="contact-info-area pb-100">
                 <div className="container">
                     <div className="contact-info-inner">
-                        <h2>Se preferisci puoi chiamarci o mandarci una email</h2>
+                        <h2>Se preferisci puoi chiamarmi o mandarmi una email</h2>
 
                         <div className="row justify-content-center">
-                            <div className="col-lg-4 col-md-6 col-sm-6">
+                            /*<div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-contact-info-box">
                                     <div className="icon bg1">
                                         <i className="ri-customer-service-2-line"></i>
                                     </div>
                                     <h3><a href="tel:+393519696279">+39 3519696279</a></h3>
                                 </div>
-                            </div>
+                            </div>*/
 
                             <div className="col-lg-4 col-md-6 col-sm-6">
                                 <div className="single-contact-info-box">

@@ -262,7 +262,7 @@ const NavbarStyleTwo = () => {
                             <div className="others-options">
                                 <Link href="/contact">
                                     <a className={`collapse navbar-collapse default-btn`}>
-                                        Contattaci
+                                        Contattami
                                     </a>
                                 </Link>
                             </div>
