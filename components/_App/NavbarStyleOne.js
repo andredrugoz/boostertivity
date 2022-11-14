@@ -262,7 +262,7 @@ const NavbarStyleOne = () => {
                             <div className="others-options">
                                 <Link href="/contact">
                                     <a className="default-btn">
-                                        Contattaci
+                                        Contattami
                                     </a>
                                 </Link>
                             </div>
