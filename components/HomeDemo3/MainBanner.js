@@ -21,7 +21,7 @@ const MainBanner = () => {
                         <div className="col-lg-7 col-md-12">
                             <div className="banner-wrapper-image">
                                 <div className="banner-img">
-                                    <img src="/images/banner/banner-img1.png" alt="banner-img" />
+                                    <img src="/images/banner/img_consulenza3.png" alt="banner-img" />
                                 </div>
                                 <div className="banner-img">
                                     <ScrollAnimation animateIn='fadeInLeft' animateOnce={true} initiallyVisible={true}>
