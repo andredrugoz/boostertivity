@@ -51,15 +51,7 @@ const KeyFeatures = () => {
                             </div>
                         </div>
 
-                        {/* <div className="col-12 col-md-6 text-center xsw-100">
-                            <div className="features-item">
-                                <div className="icon bg5">
-                                    <i className="ri-cloud-line"></i>
-                                </div>
-                                <h3>Fianco a fianco</h3>
-                                <p>Nel percorso di rinnovamento della tua attività non ti sentirai mai solo, i nostri esperti saranno sempre pronti ad aiutarti.</p>
-                            </div>
-                        </div> */}
+                       
 
                         <div className="col-12 col-md-6 text-center xsw-100">
                             <div className="features-item">
