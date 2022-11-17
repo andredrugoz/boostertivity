@@ -49,7 +49,7 @@ const BestAppEver = () => {
 
                         <div className="col-xl-6 col-lg-12 col-md-12 p-0">
                             <div className="overview-image bg1">
-                                <img src="/images/elonora.jpg" alt="overview" />
+                                <img src="/images/elonora.jpg" alt="Eleonora" />
                             </div>
                         </div>
                     </div>
