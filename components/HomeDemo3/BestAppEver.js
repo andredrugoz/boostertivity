@@ -24,7 +24,7 @@ const BestAppEver = () => {
                                         <div className="icon">
                                             <i className="ri-award-line"></i>
                                         </div>
-                                        <h3>Collaborazione elastica</h3>
+                                        <h3>Collaborazione Elastica</h3>
                                         <p>Cerchiamo insieme l'approccio corretto, ricavando del tempo nuovo da dedicare ad altri progetti.</p>
                                     </li>
                                     <li>
