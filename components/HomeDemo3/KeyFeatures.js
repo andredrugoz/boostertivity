@@ -46,13 +46,10 @@ const KeyFeatures = () => {
                                 <div className="icon bg4">
                                     <i className="ri-secure-payment-line"></i>
                                 </div>
-                                <h3>Gestione del team</h3>
+                                <h3>Gestione del Team</h3>
                                 <p>Facilitare l'interazione tra i membri del Team, creando una coesione fluida.</p>
                             </div>
                         </div>
-
-                       
-
                         <div className="col-12 col-md-6 text-center xsw-100">
                             <div className="features-item">
                                 <div className="icon bg6">
