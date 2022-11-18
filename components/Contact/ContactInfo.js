@@ -32,7 +32,7 @@ const ContactInfo = () => {
                                     <div className="icon bg2">
                                         <i className="ri-map-pin-line"></i>
                                     </div>
-                                    <h3>121 King St, Melbourne VIC 3000, Australia.</h3>
+                                    <h3></h3>
                                 </div>
                             </div> */}
                         </div>
