@@ -8,7 +8,7 @@
         "build": "next build && next export",
         "start": "next start"
     },
-    "author": "Boostertivity.com",
+    "author": "boostertivity.it",
     "license": "ISC",
     "dependencies": {
         "next": "^11.0.1",
