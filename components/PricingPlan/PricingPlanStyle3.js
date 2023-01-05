@@ -22,7 +22,7 @@ const PricingPlanStyle3 = () => {
                                     GRATIS <span>(solo una volta)</span>
                                 </div>
 
-                                <Link href="/sign-in">
+                                <Link href="/contact">
                                     <a className="default-btn">Servizi inclusi</a>
                                 </Link>
 
@@ -44,7 +44,7 @@ const PricingPlanStyle3 = () => {
                                     A partire da 295€
                                 </div>
                                 
-                                <Link href="/sign-in">
+                                <Link href="/contact">
                                     <a className="default-btn">Servizi inclusi</a>
                                 </Link>
 
@@ -66,7 +66,7 @@ const PricingPlanStyle3 = () => {
                                     A partire da 395€
                                 </div>
 
-                                <Link href="/sign-in">
+                                <Link href="/contact">
                                     <a className="default-btn">Servizi inclusi</a>
                                 </Link>
                                 
