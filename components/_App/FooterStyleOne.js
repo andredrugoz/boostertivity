@@ -44,14 +44,9 @@ const FooterStyleOne = () => {
                                     <i className="ri-github-fill"></i>
                                 </a>
                             </li>
-                        </ul> */}
+                        </ul> 
 
                         <ul className="navbar-nav">
-                            <li className="nav-item">
-                                <Link href="/services">
-                                    <a className="nav-link">Services</a>
-                                </Link>
-                            </li>
                             <li className="nav-item">
                                 <Link href="/contact">
                                     <a className="nav-link">Support</a>
@@ -73,7 +68,7 @@ const FooterStyleOne = () => {
                                 </Link>
                             </li>
                         </ul>
-
+                        */}
                         <p className="copyright">Made with ❤️ by <a href="https://CheckupDigitale.com/" target="_blank">CheckupDigitale</a></p>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ const BlogPost = () => {
                 <div className="container">
                     <div className="section-title">
                         <span className="sub-title">BLOG POST</span>
-                        <h2>Latest Article From Our Blog</h2>
+                        <h2>Gli ultimi articoli dal Blog</h2>
                     </div>
 
                     <div className="row justify-content-center">
