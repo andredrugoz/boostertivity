@@ -58,7 +58,7 @@ const AboutSimple = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="about-image">
                                 <ScrollAnimation animateIn='fadeInUp'>
-                                    <img src="/images/app/app-img7.png" alt="about" />
+                                    <img src="/images/app/laptop-546.jpg" alt="about" />
                                 </ScrollAnimation>
                             </div>
                         </div>
