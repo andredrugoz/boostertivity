@@ -43,7 +43,7 @@ Banner Wrapper Area CSS
 }
 
 .banner-wrapper-image {
-  text-align: end;
+  /*text-align: end;*/
   margin-left: 15px;
   position: relative;
 }
