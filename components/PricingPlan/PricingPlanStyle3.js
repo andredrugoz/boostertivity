@@ -37,7 +37,7 @@ const PricingPlanStyle3 = () => {
                             <div className="single-pricing-box active">
                                 <div className="title">
                                     <h3>Advanced</h3>
-                                    <p>Il migliore per iniziare</p>
+                                    <p>Il migliore per iniziare</p> 
                                 </div>
                                 <span className="popular">La più scelta</span>
                                 <div className="price">
